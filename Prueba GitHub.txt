@@ -1,5 +1,0 @@
-Cambio de Texto 
-AUTO 
-CARRO
-AVION
-BICICLETA
